@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    height: 100px;
+    background-color: gray;
+    width: 1404px;
+    margin-top: 10px;
+}
+div {
+    height: 800px;
+    width: 100px;
+    display: inline-block;
+    background-color: lightgray;
+}
+#top {
+    background-color: white;
+    height: 700px;
+    width: 1200px;
+    margin-left: -4px;
+}
+#bottom {
+    background-color: black;
+    height: 100px;
+    width: 1204px;
+    margin-left: 0px;
+}
